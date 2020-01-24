@@ -1,0 +1,17 @@
+C:\Users\victor.rezende\source\repos\HelloWpfApp\HelloWpfApp\bin\Debug\netcoreapp3.1\HelloWpfApp.exe
+C:\Users\victor.rezende\source\repos\HelloWpfApp\HelloWpfApp\bin\Debug\netcoreapp3.1\HelloWpfApp.deps.json
+C:\Users\victor.rezende\source\repos\HelloWpfApp\HelloWpfApp\bin\Debug\netcoreapp3.1\HelloWpfApp.runtimeconfig.json
+C:\Users\victor.rezende\source\repos\HelloWpfApp\HelloWpfApp\bin\Debug\netcoreapp3.1\HelloWpfApp.runtimeconfig.dev.json
+C:\Users\victor.rezende\source\repos\HelloWpfApp\HelloWpfApp\bin\Debug\netcoreapp3.1\HelloWpfApp.dll
+C:\Users\victor.rezende\source\repos\HelloWpfApp\HelloWpfApp\bin\Debug\netcoreapp3.1\HelloWpfApp.pdb
+C:\Users\victor.rezende\source\repos\HelloWpfApp\HelloWpfApp\obj\Debug\netcoreapp3.1\HelloWpfApp.csprojAssemblyReference.cache
+C:\Users\victor.rezende\source\repos\HelloWpfApp\HelloWpfApp\obj\Debug\netcoreapp3.1\Greetings.g.cs
+C:\Users\victor.rezende\source\repos\HelloWpfApp\HelloWpfApp\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\victor.rezende\source\repos\HelloWpfApp\HelloWpfApp\obj\Debug\netcoreapp3.1\HelloWpfApp_MarkupCompile.cache
+C:\Users\victor.rezende\source\repos\HelloWpfApp\HelloWpfApp\obj\Debug\netcoreapp3.1\HelloWpfApp_MarkupCompile.lref
+C:\Users\victor.rezende\source\repos\HelloWpfApp\HelloWpfApp\obj\Debug\netcoreapp3.1\Greetings.baml
+C:\Users\victor.rezende\source\repos\HelloWpfApp\HelloWpfApp\obj\Debug\netcoreapp3.1\HelloWpfApp.g.resources
+C:\Users\victor.rezende\source\repos\HelloWpfApp\HelloWpfApp\obj\Debug\netcoreapp3.1\HelloWpfApp.AssemblyInfoInputs.cache
+C:\Users\victor.rezende\source\repos\HelloWpfApp\HelloWpfApp\obj\Debug\netcoreapp3.1\HelloWpfApp.AssemblyInfo.cs
+C:\Users\victor.rezende\source\repos\HelloWpfApp\HelloWpfApp\obj\Debug\netcoreapp3.1\HelloWpfApp.dll
+C:\Users\victor.rezende\source\repos\HelloWpfApp\HelloWpfApp\obj\Debug\netcoreapp3.1\HelloWpfApp.pdb
